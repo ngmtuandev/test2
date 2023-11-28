@@ -43,8 +43,8 @@ const Screen2 = ({route}) => {
         <View style={{paddingLeft: 20}}>
             <View>
                 <View>
-                    <Text style={{fontSize: 25, fontWeight: 'bold', color: 'red'}}>Infor Account & history trasaction</Text>
-                    <Text style={{fontSize: 25, fontWeight: "bold", marginTop: 10, marginBottom: 10}}>Name Account : {user.username}</Text>
+                    <Text style={{fontSize: 23, fontWeight: 'bold', color: 'red'}}>Infor Account & history trasaction</Text>
+                    <Text style={{fontSize: 23, fontWeight: "bold", marginTop: 10, marginBottom: 10}}>Name Account : {user.username}</Text>
                 </View>
                 <View>
                     <Text style={{fontSize: 20, fontWeight: "bold"}}>Total Balance</Text>
